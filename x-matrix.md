@@ -1,6 +1,6 @@
 # Acme Corp · Hoshin 2027
 
-## Breakthrough objectives: 3–5 year
+## Big objectives: 1–2 years
 - market-leader: Become the #1 supplier of anvils in North America
 - digital-sales: Half of all sales through digital channels
 
